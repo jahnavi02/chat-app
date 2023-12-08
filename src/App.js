@@ -140,7 +140,7 @@ function App() {
       <>
       <div className={`message ${messageClass}`}>
 
-        <img src={photoURL || 'https://www.flaticon.com/free-icon/user_456212'} alt="Profile photo of user"/>
+        <img src={photoURL || 'https://www.flaticon.com/free-icon/user_456212'} alt="Profile of user"/>
         <p>{text}</p>
 
       </div>
