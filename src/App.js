@@ -140,7 +140,7 @@ function App() {
       <>
       <div className={`message ${messageClass}`}>
 
-        <img src={photoURL || 'https://api.adorable.io/avatars/23/abott@adorable.png'}/>
+        <img src={photoURL || 'https://www.flaticon.com/free-icon/user_456212'}/>
         <p>{text}</p>
 
       </div>
